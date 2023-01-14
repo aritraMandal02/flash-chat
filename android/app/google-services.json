@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "168585787358",
+    "project_id": "flash-chat-f9ad9",
+    "storage_bucket": "flash-chat-f9ad9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:168585787358:android:386448da895037c8814f4f",
+        "android_client_info": {
+          "package_name": "com.aritramandal.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "168585787358-r54dgk8jl7eldmdklubluhk4cdhdeq36.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3IErBIQpCF3UE4KKsffxOyoApa77YIq4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "168585787358-r54dgk8jl7eldmdklubluhk4cdhdeq36.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
